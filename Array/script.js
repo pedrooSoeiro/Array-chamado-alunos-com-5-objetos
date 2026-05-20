@@ -18,7 +18,7 @@ alert(
   "👤 Pedro\n   • Idade: 16 | Disciplina: SOP\n\n" +
   "👤 Fernanda Linda\n   • Idade: 17 | Disciplina: SOP\n\n" +
   "👤 Thomas\n   • Idade: 18 | Disciplina: LER\n\n" +
-  "👤 Antônio\n   • Idade: 20 | Disciplina: Não sabe\n" +
+  "👤 Antônio\n   • Idade: 20 | Disciplina: SOP\n" +
   "------------------------------------------"
 );
 alert("Nome primeiro aluno:")
