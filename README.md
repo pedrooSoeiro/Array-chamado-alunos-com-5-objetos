@@ -1,4 +1,4 @@
-# 🎓 Desafio: Manipulação de Arrays e Objetos em JavaScript
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Desafio:%20Arrays%20e%20Objetos%20JS&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 Este projeto foi desenvolvido como um exercício prático de lógica de programação, focado na estrutura de dados fundamental do JavaScript: **Arrays de Objetos**.
 
